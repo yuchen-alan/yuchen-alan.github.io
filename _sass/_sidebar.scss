@@ -190,7 +190,9 @@
   cursor: default;
 
   @include breakpoint($large) {
-    display: block;
+    display: flex;
+    justify-content: center;
+    width: 100%; 
     position: relative;
     margin: 0;
     padding: 0;
@@ -212,7 +214,9 @@
     z-index: 0;
 
     @include breakpoint($large) {
-      display: none;
+      display: flex;
+      justify-content: center;
+      width: 100%; 
     }
   }
 
@@ -229,7 +233,9 @@
     z-index: 1;
 
     @include breakpoint($large) {
-      display: none;
+      display: flex;
+      justify-content: center;
+      width: 100%; 
     }
   }
 
