@@ -24,8 +24,8 @@ author:
   name             : "Yuchen Wu"
   avatar           : "images/Yuchen-Profile-low.png"
   bio              : "Department of Computer Science and Technology"
-  location         : "Tsinghua University"
-  employer         :
+  location         : 
+  employer         : "Tsinghua University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FakdIWsAAAAJ"
   email            : "wuyuchen2003@gmail.com"
