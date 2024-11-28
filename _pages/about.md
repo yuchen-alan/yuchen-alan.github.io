@@ -46,12 +46,14 @@ During my undergraduate studies, I was fortunate to be advised by <a href="https
 <div class='paper-box'>
 <p class='paper-title'><b>[UIST '24 Demo]</b> Manipulate to Obfuscate: A Privacy-Focused Intelligent Image Manipulation Tool for End-Users</p>
 <p class='paper-author'>Kyzyl Monteiro*, <b>Yuchen Wu*</b>, Sauvik Das (*equal contribution)</p>
+<br>
 <div class='paper-link'><a href="https://doi.org/10.1145/3672539.3686778" style="text-decoration: none">Paper</a></div>
 </div>
 
 <div class='paper-box'>
 <p class='paper-title'><b>[NIPS '23] </b> Imagereward: Learning and evaluating human preferences for text-to-image generation</p>
 <p class='paper-author'>Jiazheng Xu, Xiao Liu, <b>Yuchen Wu</b>, Yuxuan Tong, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong</p>
+<br>
 <div class='paper-link'><a href="https://dl.acm.org/doi/10.5555/3666122.3666822" style="text-decoration: none">Paper</a></div>
 </div>
 
