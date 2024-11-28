@@ -142,13 +142,13 @@
 
   @include breakpoint($large) {
     margin-top: 20px;
-    margin-bottom: 20px;
   }
 }
 
 .author__bio2{
   @include breakpoint($large) {
     margin-top: 10px;
+    margin-bottom: 20px;
   }
 }
 
