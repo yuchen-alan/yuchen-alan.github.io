@@ -49,14 +49,16 @@ During my undergraduate studies, I was fortunate to be advised by <a href="https
 <a href="https://doi.org/10.1145/3672539.3686778" class='paper-link'>Paper</a>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' style="border: 0">
 <p class='paper-title'><b>[NIPS '23] </b> Imagereward: Learning and evaluating human preferences for text-to-image generation</p>
 <p class='paper-author'>Jiazheng Xu, Xiao Liu, <b>Yuchen Wu</b>, Yuxuan Tong, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong</p>
 <a href="https://dl.acm.org/doi/10.5555/3666122.3666822" class="paper-link">Paper</a>
 </div>
 
 <h1 style="border: 0">Other Projects</h1>
-In collaboration with Prof. Chun Yu at Tsinghua University and high schools in Qinghai Province, I previously worked on an AI-powered lesson planning system. This system enables teachers to adapt advanced urban educational materials to the cognitive backgrounds of their students, aiming to bridge educational disparities and promote more accessible, inclusive, and equitable learning opportunities.
+In collaboration with Prof. Chun Yu at Tsinghua University and high schools in Qinghai Province, I previously worked on an AI-powered lesson planning system. 
+
+This system enables teachers to adapt advanced urban educational materials to the cognitive backgrounds of their students, aiming to bridge educational disparities and promote more accessible, inclusive, and equitable learning opportunities.
 
 
 <!-- # 🎖 Honors and Awards
