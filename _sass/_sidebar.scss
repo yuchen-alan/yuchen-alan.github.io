@@ -254,7 +254,6 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
     font-size: $type-size-custom;
     text-decoration: none;
     color: rgb(73, 78, 82);
@@ -268,10 +267,9 @@
 .author__urls_sm{
   padding: .25em;
   font-size: 1.5em;
-  color: rgb(73, 78, 82);
   display: block;
   a {
-    color: inherit;
+    color: rgb(73, 78, 82);
     text-decoration: none;
     &:hover {
       text-decoration: underline;
