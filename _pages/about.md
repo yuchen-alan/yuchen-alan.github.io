@@ -56,9 +56,9 @@ During my undergraduate studies, I was fortunate to be advised by <a href="https
 </div>
 
 <h1 style="border: 0">Other Projects</h1>
-In collaboration with Prof. Chun Yu at Tsinghua University and high schools in Qinghai Province, I previously worked on an AI-powered lesson planning system. 
+In collaboration with <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" style="text-decoration: none;">Prof. Chun Yu</a> at Tsinghua University and high schools in Qinghai Province, I previously worked on an AI-powered lesson planning system. 
 
-This system enables teachers to adapt advanced urban educational materials to the cognitive backgrounds of their students, aiming to bridge educational disparities and promote more accessible, inclusive, and equitable learning opportunities.
+This system enables teachers to adapt advanced urban educational materials to the cognitive backgrounds of their students, <b>aiming to bridge educational disparities and promote more accessible, inclusive, and equitable learning opportunities</b>.
 
 
 <!-- # 🎖 Honors and Awards
