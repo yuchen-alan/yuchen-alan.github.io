@@ -81,7 +81,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 75px;
+  width: 100px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -93,7 +93,7 @@
 
   img {
     // max-width: 200px;
-    min-width: 75px;
+    min-width: 100px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -106,9 +106,9 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 10px;
+  padding-left: 25px;
   min-width: 120px;
-  // padding-right: 25px;
+  padding-right: 15px;
   line-height: 1;
 
   @include breakpoint($large) {
@@ -255,8 +255,9 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: $type-size-custom;
     text-decoration: none;
+    color: rgb(73, 78, 82);
 
     &:hover {
       text-decoration: underline;
@@ -266,7 +267,8 @@
 
 .author__urls_sm{
   padding: .25em;
-  font-size: 1.75em;
+  font-size: 1.5em;
+  color: rgb(73, 78, 82);
   display: block;
   a {
     color: inherit;

@@ -14,7 +14,7 @@ redirect_from:
 
 Hi there! I'm Yuchen Wu, an undergraduate student in the Department of Computer Science and Technology at Tsinghua University. 
 
-My research interest lies in Human-Computer Interaction (HCI), Human-Centered AI, and Social Computing. I aim to design and develop human-centered, interactive AI systems that bridge cutting-edge research with real-world applications, empowering individuals and driving meaningful societal change.
+My research interest lies in Human-Computer Interaction (HCI), Human-Centered AI, and Social Computing. I aim to design and develop human-centered, interactive AI systems that <b>prioritize human needs, foster meaningful user experiences, and drive positive societal impact in real-world contexts</b>.
 
 During my undergraduate studies, I was fortunate to be advised by <a href="https://sauvik.me" style="text-decoration: none;">Prof. Sauvik Das</a> at Carnegie Mellon University, <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html" style="text-decoration: none;">Prof. John F. Canny</a> and <a href="https://haas.berkeley.edu/faculty/valerie-zhang/" style="text-decoration: none;"> Prof. Valerie Zhang</a> at UC Berkeley.
 
@@ -58,7 +58,7 @@ During my undergraduate studies, I was fortunate to be advised by <a href="https
 </div>
 
 <h1 style="border: 0">Other Projects</h1>
-In collaboration with <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" style="text-decoration: none;">Prof. Chun Yu</a> at Tsinghua University and high schools in Qinghai Province, I previously worked on an AI-powered lesson planning system. 
+In collaboration with <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" style="text-decoration: none;">Prof. Chun Yu</a> at Tsinghua University and educators from  high schools in Qinghai Province, I previously worked on an AI-powered lesson planning system. 
 
 This system enables teachers to adapt advanced urban educational materials to the cognitive backgrounds of their students, <b>aiming to reduce educational disparities and promote more accessible, inclusive, and equitable learning opportunities</b>.
 
