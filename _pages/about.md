@@ -12,9 +12,11 @@ redirect_from:
 
 <h1 style="border: 0;">About Me</h1>
 
-Hi there! I'm Yuchen Wu, an undergraduate student in the Department of Computer Science and Technology at Tsinghua University. My research interest lies in Human-Computer Interaction (HCI), Human-Centered AI, and Social Computing. I aim to design and develop human-centered, interactive AI systems that bridge cutting-edge research with real-world applications, addressing practical human needs, empowering individuals, and driving meaningful societal change.
+Hi there! I'm Yuchen Wu, an undergraduate student in the Department of Computer Science and Technology at Tsinghua University. 
 
-During my undergraduate studies, I was fortunate to be advised by <a href="https://sauvik.me">Prof. Sauvik Das</a> at Carnegie Mellon University, <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html">Prof. John F. Canny</a> and <a href="https://haas.berkeley.edu/faculty/valerie-zhang/"> Prof. Valerie Zhang</a> at UC Berkeley.
+My research interest lies in Human-Computer Interaction (HCI), Human-Centered AI, and Social Computing. I aim to design and develop human-centered, interactive AI systems that bridge cutting-edge research with real-world applications, empowering individuals and driving meaningful societal change.
+
+During my undergraduate studies, I was fortunate to be advised by <a href="https://sauvik.me" style="text-decoration: none;">Prof. Sauvik Das</a> at Carnegie Mellon University, <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html" style="text-decoration: none;">Prof. John F. Canny</a> and <a href="https://haas.berkeley.edu/faculty/valerie-zhang/" style="text-decoration: none;"> Prof. Valerie Zhang</a> at UC Berkeley.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -38,18 +40,24 @@ During my undergraduate studies, I was fortunate to be advised by <a href="https
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <div class='paper-box'>
-<div class='paper-title'>[Under Submission] Imago Obscura: An Image Privacy AI-Copilot to Enable Identification and Mitigation of Risks</div>
+<p class='paper-title'><b>[Under Submission]</b> Imago Obscura: An Image Privacy AI-Copilot to Enable Identification and Mitigation of Risks</p>
 </div>
 
 <div class='paper-box'>
-<div class='paper-title'><b>[UIST 2024]</b> Manipulate to Obfuscate: A Privacy-Focused Intelligent Image Manipulation Tool for End-Users</div>
-<div class='paper-author'>Kyzyl Monteiro*, <b>Yuchen Wu*</b>, Sauvik Das (*equal contribution)</div>
+<p class='paper-title'><b>[UIST '24 Demo]</b> Manipulate to Obfuscate: A Privacy-Focused Intelligent Image Manipulation Tool for End-Users</p>
+<p class='paper-author'>Kyzyl Monteiro*, <b>Yuchen Wu*</b>, Sauvik Das (*equal contribution)</p>
+<div class='paper-link'><p><a href="https://doi.org/10.1145/3672539.3686778" style="text-decoration: none">Paper</a></p></div>
 </div>
 
 <div class='paper-box'>
-<div class='paper-title'><b>[NeurIPS 2023] </b> Imagereward: Learning and evaluating human preferences for text-to-image generation</div>
-<div class='paper-author'>Jiazheng Xu, Xiao Liu, <b>Yuchen Wu</b>, Yuxuan Tong, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong</div>
+<p class='paper-title'><b>[NIPS '23] </b> Imagereward: Learning and evaluating human preferences for text-to-image generation</p>
+<p class='paper-author'>Jiazheng Xu, Xiao Liu, <b>Yuchen Wu</b>, Yuxuan Tong, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong</p>
+<div class='paper-link'><p><a href="https://dl.acm.org/doi/10.5555/3666122.3666822" style="text-decoration: none">Paper</a></p></div>
 </div>
+
+# Other Projects
+
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
