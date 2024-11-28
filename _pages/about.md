@@ -10,14 +10,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<h1 style="border: 0">About Me</h1>
+<h1 style="border: 0;">About Me</h1>
 
+Hi there! I'm Yuchen Wu, an undergraduate student in the Department of Computer Science and Technology at Tsinghua University. My research interest lies in Human-Computer Interaction (HCI), Human-Centered AI, and Social Computing. I aim to design and develop human-centered, interactive AI systems that bridge cutting-edge research with real-world applications, addressing practical human needs, empowering individuals, and driving meaningful societal change.
+
+During my undergraduate studies, I was fortunate to be advised by <a href="https://sauvik.me">Prof. Sauvik Das</a> at Carnegie Mellon University, <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html">Prof. John F. Canny</a> and <a href="https://haas.berkeley.edu/faculty/valerie-zhang/"> Prof. Valerie Zhang</a> at UC Berkeley.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<h1 style="border: 0">📝 Publications</h1>
+<!-- 📝 Publications -->
+<span class='anchor' id='publications'></span>
+
+<h1 style="border: 0">Publications</h1>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -31,7 +37,19 @@ redirect_from:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-Test Pub
+<div class='paper-box'>
+<div class='paper-title'>[Under Submission] Imago Obscura: An Image Privacy AI-Copilot to Enable Identification and Mitigation of Risks</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-title'>[UIST 2024] Manipulate to Obfuscate: A Privacy-Focused Intelligent Image Manipulation Tool for End-Users</div>
+<div class='paper-author'>Kyzyl Monteiro*, <b>Yuchen Wu*</b>, Sauvik Das (*equal contribution)</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-title'>[NeurIPS 2023] Imagereward: Learning and evaluating human preferences for text-to-image generation</div>
+<div class='paper-author'>Jiazheng Xu, Xiao Liu, <b>Yuchen Wu</b>, Yuxuan Tong, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong</div>
+</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
