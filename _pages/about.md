@@ -47,8 +47,8 @@ During my undergraduate studies, I was fortunate to be advised by <a href="https
 <p class='paper-title'><b>[UIST '24 Demo]</b> Manipulate to Obfuscate: A Privacy-Focused Intelligent Image Manipulation Tool for End-Users</p>
 <p class='paper-author'>Kyzyl Monteiro*, <b>Yuchen Wu*</b>, Sauvik Das (*equal contribution)</p>
 <a href="https://doi.org/10.1145/3672539.3686778" class='paper-link'>Paper</a>
-<a href="https://youtu.be/WAKPAew2X0M">Teaser Video</a>
-<a href="https://youtu.be/F7omBmMEDYU">Demo Video</a>
+<a href="https://youtu.be/WAKPAew2X0M" class="paper-link">Teaser Video</a>
+<a href="https://youtu.be/F7omBmMEDYU" class="paper-link">Demo Video</a>
 </div>
 
 <div class='paper-box' style="border: 0">
