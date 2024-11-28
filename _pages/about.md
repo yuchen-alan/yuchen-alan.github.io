@@ -42,7 +42,7 @@ During my undergraduate studies, I was fortunate to be advised by <a href="https
 <div class='paper-box' style="border: 0">
 <p class='paper-title'><b>[NIPS '23] </b> Imagereward: Learning and evaluating human preferences for text-to-image generation</p>
 <p class='paper-author'>Jiazheng Xu, Xiao Liu, <b>Yuchen Wu</b>, Yuxuan Tong, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong</p>
-<a href="https://dl.acm.org/doi/10.5555/3666122.3666822" class="paper-link">Paper</a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/33646ef0ed554145eab65f6250fab0c9-Abstract-Conference.html" class="paper-link">Paper</a>
 </div>
 
 <h1 style="border: 0">Other Projects</h1>
