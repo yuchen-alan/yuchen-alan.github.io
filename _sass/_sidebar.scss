@@ -108,7 +108,6 @@
   vertical-align: top;
   padding-left: 25px;
   min-width: 120px;
-  padding-right: 15px;
   line-height: 1;
 
   @include breakpoint($large) {
@@ -266,8 +265,9 @@
 
 .author__urls_sm{
   padding: .25em;
-  font-size: 1.5em;
+  font-size: 1.6em;
   display: block;
+  padding-left: 15px;
   a {
     color: rgb(73, 78, 82);
     text-decoration: none;
