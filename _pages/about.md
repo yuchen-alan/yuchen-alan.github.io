@@ -42,12 +42,12 @@ During my undergraduate studies, I was fortunate to be advised by <a href="https
 </div>
 
 <div class='paper-box'>
-<div class='paper-title'>[UIST 2024] Manipulate to Obfuscate: A Privacy-Focused Intelligent Image Manipulation Tool for End-Users</div>
+<div class='paper-title'><b>[UIST 2024]</b> Manipulate to Obfuscate: A Privacy-Focused Intelligent Image Manipulation Tool for End-Users</div>
 <div class='paper-author'>Kyzyl Monteiro*, <b>Yuchen Wu*</b>, Sauvik Das (*equal contribution)</div>
 </div>
 
 <div class='paper-box'>
-<div class='paper-title'>[NeurIPS 2023] Imagereward: Learning and evaluating human preferences for text-to-image generation</div>
+<div class='paper-title'><b>[NeurIPS 2023] </b> Imagereward: Learning and evaluating human preferences for text-to-image generation</div>
 <div class='paper-author'>Jiazheng Xu, Xiao Liu, <b>Yuchen Wu</b>, Yuxuan Tong, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong</div>
 </div>
 
