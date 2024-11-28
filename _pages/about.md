@@ -10,14 +10,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi
+<h1 style="border: 0">About Me</h1>
 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+<h1 style="border: 0">📝 Publications</h1>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
