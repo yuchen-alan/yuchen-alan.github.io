@@ -146,6 +146,12 @@
   }
 }
 
+.author__bio2{
+  @include breakpoint($large) {
+    margin-top: 10px;
+  }
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
