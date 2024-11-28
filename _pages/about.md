@@ -14,7 +14,7 @@ redirect_from:
 
 Hi there! I'm Yuchen Wu, an undergraduate student in the Department of Computer Science and Technology at Tsinghua University. 
 
-My research interest lies in Human-Computer Interaction (HCI), Human-Centered AI, and Social Computing. I aim to design and develop <b>human-centered, interactive AI systems that prioritize human needs, foster meaningful user experiences, and drive positive societal impact in real-world contexts</b>.
+My research interest lies in Human-Computer Interaction (HCI), Human-Centered AI, and Social Computing. I aim to <b>design and develop human-centered, interactive AI systems that prioritize human needs, foster meaningful user experiences, and drive positive societal impact in real-world contexts</b>.
 
 During my undergraduate studies, I was fortunate to be advised by <a href="https://sauvik.me" style="text-decoration: none;">Prof. Sauvik Das</a> at Carnegie Mellon University, <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html" style="text-decoration: none;">Prof. John F. Canny</a> and <a href="https://haas.berkeley.edu/faculty/valerie-zhang/" style="text-decoration: none;"> Prof. Valerie Zhang</a> at UC Berkeley.
 
