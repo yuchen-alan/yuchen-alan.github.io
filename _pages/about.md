@@ -16,7 +16,7 @@ Hi there! I'm Yuchen Wu, an undergraduate student in the Department of Computer 
 
 My research interest lies in Human-Computer Interaction (HCI), Human-Centered AI, and Social Computing. I aim to <b>design and develop human-centered, interactive AI systems that prioritize human needs, foster meaningful user experiences, and drive positive societal impact in real-world contexts</b>.
 
-During my undergraduate studies, I was fortunate to be advised by <a href="https://sauvik.me" style="text-decoration: none;">Prof. Sauvik Das</a> at Carnegie Mellon University, <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html" style="text-decoration: none;">Prof. John F. Canny</a> and <a href="https://haas.berkeley.edu/faculty/valerie-zhang/" style="text-decoration: none;"> Prof. Valerie Zhang</a> at UC Berkeley.
+During my undergraduate studies, I was fortunate to be advised by <a href="https://sauvik.me" style="text-decoration: none;">Prof. Sauvik Das</a> at Carnegie Mellon University, as well as <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html" style="text-decoration: none;">Prof. John F. Canny</a> and <a href="https://haas.berkeley.edu/faculty/valerie-zhang/" style="text-decoration: none;"> Prof. Valerie Zhang</a> at UC Berkeley.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -26,18 +26,6 @@ During my undergraduate studies, I was fortunate to be advised by <a href="https
 <span class='anchor' id='publications'></span>
 
 <h1 style="border: 0">Publications</h1>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-**CVPR, 2016** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <div class='paper-box'>
 <p class='paper-title'><b>[Under Submission]</b> Imago Obscura: An Image Privacy AI-Copilot to Enable Identification and Mitigation of Risks</p>
@@ -60,20 +48,9 @@ During my undergraduate studies, I was fortunate to be advised by <a href="https
 <h1 style="border: 0">Other Projects</h1>
 In collaboration with <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" style="text-decoration: none;">Prof. Chun Yu</a> at Tsinghua University and educators from  high schools in Qinghai Province, I previously worked on an AI-powered lesson planning system. 
 
-This system enables teachers to adapt advanced urban educational materials to the cognitive backgrounds of their students, <b>aiming to reduce educational disparities and promote more accessible, inclusive, and equitable learning opportunities</b>.
+This system enables teachers to adapt advanced urban educational materials to the cognitive levels of students from underdeveloped areas, <b>aiming to reduce educational disparities and promote more accessible, inclusive, and equitable learning opportunities</b>.
 
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 💬 Invited Talks -->
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<!-- # 💻 Internships -->
