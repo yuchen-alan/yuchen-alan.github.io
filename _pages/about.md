@@ -12,11 +12,13 @@ redirect_from:
 
 <h1 style="border: 0;">About Me</h1>
 
-Hi there! I'm Yuchen Wu, a Computer Science Ph.D. student at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois Urbana–Champaign</a>, advised by <a href="http://www.eshwarchandrasekharan.com/" style="text-decoration: none;">Prof. Eshwar Chandrasekharan</a>. Previously, I was an undergraduate student at <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a> majoring in Computer Science, advised by <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" style="text-decoration: none;">Prof. Chun Yu</a>. During my undergraduate studies, I was also fortunate to be advised by <a href="https://sauvik.me" style="text-decoration: none;">Prof. Sauvik Das</a> at Carnegie Mellon University, as well as <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html" style="text-decoration: none;">Prof. John F. Canny</a> at UC Berkeley.
+Hi there! I'm Yuchen Wu, a Computer Science Ph.D. student at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois Urbana–Champaign</a>, advised by <a href="http://www.eshwarchandrasekharan.com/" style="text-decoration: none;">Prof. Eshwar Chandrasekharan</a>.
 
 I work at the intersection of Human-Centered AI and Human-Computer Interaction (HCI), designing <b>interactive AI systems that align with human values, respond to human needs, and effectively support decision-making in real-world contexts</b>.
 
 My research takes a twofold approach. On the modeling side, I study <b>how human preferences can be represented and integrated into machine learning models</b>, developing methods such as reward modeling to align model behavior with human values. On the system design side, I build interactive AI systems that connect these models with real users, exploring <b>how human–AI collaboration can foster more informed, value-sensitive, and trustworthy interactions in real-world contexts</b>.
+
+Previously, I was an undergraduate student at <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a> majoring in Computer Science, advised by <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" style="text-decoration: none;">Prof. Chun Yu</a>. During my undergraduate studies, I was also fortunate to be advised by <a href="https://sauvik.me" style="text-decoration: none;">Prof. Sauvik Das</a> at Carnegie Mellon University, and <a href="https://people.eecs.berkeley.edu/~jfc/ style="text-decoration: none;">Prof. John F. Canny</a> at UC Berkeley.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
