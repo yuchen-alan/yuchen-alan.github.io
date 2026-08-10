@@ -14,7 +14,7 @@ redirect_from:
 
 Hi there! I'm Yuchen Wu, a Computer Science Ph.D. student at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois Urbana–Champaign</a>, advised by <a href="https://tiffanygewang.com" style="text-decoration: none;">Prof. Ge Wang</a>.
 
-I work at the intersection of Human-Centered AI and Human-Computer Interaction (HCI), designing <b>interactive AI systems that align with human values, respond to human needs, and effectively support decision-making in real-world contexts</b>. My research takes a twofold approach:
+I work at the intersection of Human-Centered AI and Machine Learning, designing <b>interactive AI systems that align with human values, respond to human needs, and effectively support decision-making in real-world contexts</b>. My research takes a twofold approach:
 
 * On the modeling side, I study <b>how human preferences can be represented and integrated into machine learning models</b>, developing methods such as reward modeling to align model behavior with human values. 
 * On the system design side, I build interactive AI systems that connect these models with real users, exploring <b>how human–AI collaboration can foster more informed, value-sensitive, and trustworthy interactions in real-world contexts</b>.
