@@ -31,7 +31,7 @@ Previously, I was an undergraduate student at <a href="https://www.tsinghua.edu.
 <h1 style="border: 0">Publications</h1>
 
 <div class='paper-box'>
-<p class='paper-title'><b>[Under Review]</b> Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media</p>
+<p class='paper-title'><b>[Under Review]</b> Evaluating the Hidden Costs of Personalization in Large Language Models</p>
 </div>
 
 <div class='paper-box'>
