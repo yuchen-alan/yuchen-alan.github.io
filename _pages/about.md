@@ -12,7 +12,7 @@ redirect_from:
 
 <h1 style="border: 0;">About Me</h1>
 
-Hi there! I'm Yuchen Wu, a Computer Science Ph.D. student at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois Urbana–Champaign</a>, advised by <a href="http://www.eshwarchandrasekharan.com/" style="text-decoration: none;">Prof. Eshwar Chandrasekharan</a>.
+Hi there! I'm Yuchen Wu, a Computer Science Ph.D. student at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois Urbana–Champaign</a>, advised by <a href="https://tiffanygewang.com" style="text-decoration: none;">Prof. Ge Wang</a>.
 
 I work at the intersection of Human-Centered AI and Human-Computer Interaction (HCI), designing <b>interactive AI systems that align with human values, respond to human needs, and effectively support decision-making in real-world contexts</b>. My research takes a twofold approach:
 
